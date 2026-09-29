@@ -1,0 +1,5 @@
+.venv/
+SPEC.md
+__pycache__/
+.env.local
+.DS_Store
